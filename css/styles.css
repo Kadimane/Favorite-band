@@ -4,3 +4,8 @@ nav {
     color: rgb(235, 144, 33);
     position: fixed;
 }
+nav>ul {
+    text-align: center;
+    background-color: rgb(55, 193, 247);
+
+}
