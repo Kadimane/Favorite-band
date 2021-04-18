@@ -21,3 +21,10 @@ nav>ul {
     background-color:cadetblue;
     display: flex;
 }
+.copyright {
+    text-align: center;
+}
+
+    body {
+        background-color:gray;
+    }
