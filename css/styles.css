@@ -17,3 +17,7 @@ nav>ul {
     padding: 10px;
     height: auto;
 }
+.row {
+    background-color:cadetblue;
+    display: flex;
+}
